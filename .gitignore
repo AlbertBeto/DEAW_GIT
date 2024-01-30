@@ -1,0 +1,5 @@
+#Archivos a ignorar
+privado.txt
+
+#Carpetas a ignorar
+privada/
